@@ -1,0 +1,10 @@
+Objetiva
+3
+Quanto é 2+2?
+d
+[1, 0, 5, 2]
+Objetiva
+4
+Quanto é 3+2?
+c
+[1, 0, 5, 2]

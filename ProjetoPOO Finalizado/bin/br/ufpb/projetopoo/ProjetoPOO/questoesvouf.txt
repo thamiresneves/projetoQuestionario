@@ -1,0 +1,8 @@
+VouF
+5
+Diga se é verdadeiro ou falso: O Eclipse é um software!
+V
+VouF
+6
+Diga se é verdadeiro ou falso: O teclado é um software!
+F
